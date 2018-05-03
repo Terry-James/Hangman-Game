@@ -1,0 +1,7 @@
+Welcome to the Hangman game.
+Here are a few things you need to know in order to play the game.
+1. Enter all letters as lowercase letters no need to capitialize.
+2. After entering a letter click the mouse outside the entry box to progress.
+3. You can try to answer the whole word 3 times after which you lose.
+4. You have up to 6 tries to guess the correct letters to spell the word.
+5. Last, Have fun and hope you enjoy my game.
